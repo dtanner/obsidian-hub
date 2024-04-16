@@ -24,7 +24,6 @@ Plugins help in editing like toolbars, auto-completions, sorting, ...
 - [[completed-area|Completed Area]]: Move completed to-do items to a seperate completed area.
 - [[obsidian-copy-block-link|Copy Block Link]]: Get links to blocks and headings from Obsidian's right click menu
 - [[obsidian-dictionary-plugin|Dictionary]]: This is a simple dictionary for the Obsidian Note-Taking Tool.
-- [[obsidian-dynamic-toc|Dynamic Table of Contents]]: An Obsidian plugin to generate Tables of Contents that stay up to date with your document outline.
 - [[obsidian-embedded-note-titles|Embedded Note Titles]]: Inserts the note file name as an H1 heading above each note.
 - [[emoji-shortcodes|Emoji Shortcodes]]: This Plugin enables the use of Markdown Emoji Shortcodes :smile:
 - [[obsidian-emoji-toolbar|Emoji Toolbar]]: Quickly search for and insert emojis into your notes.
